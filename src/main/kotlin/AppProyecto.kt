@@ -1,6 +1,7 @@
 package pm_ud1_proyecto.main.kotlin
 
 //No se debe modificar
+// He creado un fork del repositorio original para hacer las modificaciones necesarias
 fun main() {
     val viewModel = TareasViewModel()
 
